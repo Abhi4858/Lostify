@@ -1,0 +1,62 @@
+[
+    {
+        "id": 0,
+        "itemName": "Laptop",
+        "userName": "Abhinav",
+        "description": "Laptop of brand Asus, color white"
+    },
+    {
+        "id": 1,
+        "itemName": "Backpack",
+        "userName": "Emma",
+        "description": "Red backpack with books and a water bottle"
+    },
+    {
+        "id": 2,
+        "itemName": "Wallet",
+        "userName": "Chris",
+        "description": "Black leather wallet with ID and credit cards"
+    },
+    {
+        "id": 3,
+        "itemName": "Phone",
+        "userName": "Sophia",
+        "description": "Smartphone by Samsung, color blue"
+    },
+    {
+        "id": 4,
+        "itemName": "Headphones",
+        "userName": "Daniel",
+        "description": "Wireless headphones with noise cancellation"
+    },
+    {
+        "id": 5,
+        "itemName": "Textbook",
+        "userName": "Olivia",
+        "description": "Math textbook for college course"
+    },
+    {
+        "id": 6,
+        "itemName": "Watch",
+        "userName": "Michael",
+        "description": "Silver wristwatch with leather strap"
+    },
+    {
+        "id": 7,
+        "itemName": "Umbrella",
+        "userName": "Sophie",
+        "description": "Foldable black umbrella with a wooden handle"
+    },
+    {
+        "id": 8,
+        "itemName": "Jacket",
+        "userName": "Ethan",
+        "description": "Blue jacket with a hood, size L"
+    },
+    {
+        "id": 9,
+        "itemName": "Water Bottle",
+        "userName": "Isabella",
+        "description": "Stainless steel water bottle, 24 oz"
+    }
+]

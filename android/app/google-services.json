@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "663941950445",
+    "firebase_url": "https://lostify-88636-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "lostify-88636",
+    "storage_bucket": "lostify-88636.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663941950445:android:8e00ae69c8236ff01d95e4",
+        "android_client_info": {
+          "package_name": "com.example.lostify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5DJ2fLeCWvMLJ2QjFgdgcuvg1D4p0ASw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
